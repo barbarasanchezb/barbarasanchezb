@@ -1,0 +1,11 @@
+Model Information:
+* title:	sky photosphere2
+* source:	https://sketchfab.com/3d-models/sky-photosphere2-354087e8323642e2a4e78405fa271545
+* author:	vizible (https://sketchfab.com/vizible)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sky photosphere2" (https://sketchfab.com/3d-models/sky-photosphere2-354087e8323642e2a4e78405fa271545) by vizible (https://sketchfab.com/vizible) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
