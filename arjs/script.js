@@ -30,12 +30,12 @@ function iniciar() {
   /* Creamos el MARCADOR que vamos a usar */
   //////// --> Link donde hacer marcadores https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
   //////// --> Para cambiar de marcador solo hace falta agregar un nuevo archivo a la carpeta y cambiar el string en la siguiente función
-  var marcador = contextoAR.crearMarcador('./marcadores/YingYang.patt', 'nombreModelo');
+  var marcador = contextoAR.crearMarcador('./marcadores/pattern-YingYang.patt', 'nombreModelo');
 
   /* Cargamos el MODELO 3D que vamos a usar */
   //////// --> Cambiar de modelo tmb es solo cambiar el string de la función
   modelo = new THREE.Object3D();
-  cargarModelo('./modelo/sky/scene.gltf', modelo); // Sin animación
+  cargarModelo('./modelo/fire/scene.gltf', modelo); // Sin animación
   //cargarModeloAnimado('./modelo/fire/scene.gltf', modelo, mixer); // Con animación
   marcador.add(modelo); // Lo hacemos hijo del marcador
 
