@@ -35,7 +35,7 @@ function iniciar() {
   /* Cargamos el MODELO 3D que vamos a usar */
   //////// --> Cambiar de modelo tmb es solo cambiar el string de la función
   modelo = new THREE.Object3D();
-  cargarModelo('./modelo/fire/scene.gltf', modelo); // Sin animación
+  cargarModelo('./modelo/sky/scene.gltf', modelo); // Sin animación
   //cargarModeloAnimado('./modelo/fire/scene.gltf', modelo, mixer); // Con animación
   marcador.add(modelo); // Lo hacemos hijo del marcador
 
