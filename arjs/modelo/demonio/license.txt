@@ -1,0 +1,11 @@
+Model Information:
+* title:	SUPREME-DEMON
+* source:	https://sketchfab.com/3d-models/supreme-demon-d8093730f2ee413b88d29ab3fdc78523
+* author:	Freddy Drabble (https://sketchfab.com/FredDrabble)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SUPREME-DEMON" (https://sketchfab.com/3d-models/supreme-demon-d8093730f2ee413b88d29ab3fdc78523) by Freddy Drabble (https://sketchfab.com/FredDrabble) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

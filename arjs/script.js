@@ -30,7 +30,7 @@ function iniciar() {
   /* Creamos el MARCADOR que vamos a usar */
   //////// --> Link donde hacer marcadores https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
   //////// --> Para cambiar de marcador solo hace falta agregar un nuevo archivo a la carpeta y cambiar el string en la siguiente función
-  var marcador = contextoAR.crearMarcador('./marcadores/pattern-YingYang.patt', 'nombreModelo');
+  var marcador = contextoAR.crearMarcador('./marcadores/dale.patt', 'nombreModelo');
 
   /* Cargamos el MODELO 3D que vamos a usar */
   //////// --> Cambiar de modelo tmb es solo cambiar el string de la función
@@ -54,7 +54,7 @@ function animacion() {
   requestAnimationFrame(animacion); // Loop animación
 
   /* Si quisieran animar el modelo de forma simple (que rote, o vaya de un lado a otro), se puede hacer acá */
-  //modelo.rotation.z += 0.05;
+modelo.rotation.z += 0.03;
 
   /* Esto solo se usa si el modelo viene con animación, igual si no es se puede dejar */
   if (mixer[0] != undefined) {
