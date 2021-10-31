@@ -41,8 +41,9 @@ function iniciar() {
 
   //////// --> Podemos cambiar la posición, escala y rotación inicial del modelo
   modelo.scale.set(0.5, 0.5, 0.5);
+  modelo.position.set(0, 0, 0);
   modelo.rotation.x = Math.PI;
-  modelo.rotation.y = -Math.PI / 2;
+  modelo.rotation.y = -Math.PI;
 
   document.onkeydown = function(e) {
     //marcador.add(modelo);
