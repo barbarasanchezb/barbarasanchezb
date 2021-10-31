@@ -55,7 +55,7 @@ function animacion() {
   requestAnimationFrame(animacion); // Loop animación
 
   /* Si quisieran animar el modelo de forma simple (que rote, o vaya de un lado a otro), se puede hacer acá */
-modelo.rotation.z += 0.03;
+modelo.rotation.z += 0.01;
 
   /* Esto solo se usa si el modelo viene con animación, igual si no es se puede dejar */
   if (mixer[0] != undefined) {
